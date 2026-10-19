@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neozork.github.io/sitemap.xml
+# Summary for agents: https://neozork.github.io/llms.txt

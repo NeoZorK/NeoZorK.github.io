@@ -1,0 +1,27 @@
+# NeoZorK Research
+
+> Rostyslav Shcherbyna (NeoZorK), Quantitative Developer & Independent Researcher. Independent research and engineering across time series, AI agents and verification, built on pre-registered experiments, a public evidence atlas of 26 named laws, 5 axioms and 17 frozen experiments (QWC, Quantum Wave Core), open verification tools and published negative results.
+
+## Facts for citation
+- Author: Rostyslav Shcherbyna; ORCID https://orcid.org/0009-0000-3773-5789; GitHub https://github.com/NeoZorK
+- Programme: NeoZorK Research. Flagship: QWC (Quantum Wave Core), a quantum-inspired, wave-based framework for time series, audited mainly on financial markets; public audit only, mechanics are private.
+- Open source: Monte-Neo (MIT, https://github.com/NeoZorK/Monte-Neo), ClaimBound Evidence (Apache-2.0, https://github.com/ClaimBound/claimbound-evidence).
+- Not affiliated with claimbound.com, nor with any video blogger or gaming channel named NeoZork or similar.
+- Nothing here is investment advice. Many results are single-operator and not independently replicated; failures are published.
+
+## Rights
+© 2026 Rostyslav Shcherbyna (NeoZorK). All rights reserved. Indexing, citation and summarisation with attribution and a link are welcome. Reproduction of figures, data tables, the seal and the text, commercial reuse, and use of this site's content to train machine-learning models require written permission.
+
+## Pages
+- https://neozork.github.io/
+- https://neozork.github.io/qwc.html
+- https://neozork.github.io/research.html
+- https://neozork.github.io/platforms.html
+- https://neozork.github.io/opensource.html
+- https://neozork.github.io/projects.html
+- https://neozork.github.io/infrastructure.html
+- https://neozork.github.io/about.html
+- https://neozork.github.io/contact.html
+- https://neozork.github.io/lab.html
+- https://neozork.github.io/seal.html
+- https://neozork.github.io/legal.html

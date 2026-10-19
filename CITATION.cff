@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this site, please cite it as below."
+title: "NeoZorK Research: QWC evidence atlas and Live Lab"
+type: dataset
+authors:
+  - family-names: Shcherbyna
+    given-names: Rostyslav
+    orcid: "https://orcid.org/0009-0000-3773-5789"
+url: "https://neozork.github.io/"
+repository-code: "https://github.com/NeoZorK/NeoZorK.github.io"
+abstract: "Public audit record of a research programme on time series: named laws, axioms and pre-registered experiments with verdicts, including failures."
+keywords: [time series, econophysics, pre-registration, reproducibility, negative results]
