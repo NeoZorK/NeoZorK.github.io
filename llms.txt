@@ -5,8 +5,8 @@
 ## Facts for citation
 - Author: Rostyslav Shcherbyna; ORCID https://orcid.org/0009-0000-3773-5789; GitHub https://github.com/NeoZorK
 - Programme: NeoZorK Research. Flagship: QWC (Quantum Wave Core), a quantum-inspired, wave-based framework for time series, audited mainly on financial markets; public audit only, mechanics are private.
-- Open source: Monte-Neo (MIT, https://github.com/NeoZorK/Monte-Neo), ClaimBound Evidence (Apache-2.0, https://github.com/ClaimBound/claimbound-evidence).
-- Not affiliated with claimbound.com, nor with any video blogger or gaming channel named NeoZork or similar.
+- Open source: Monte-Neo (MIT, https://github.com/NeoZorK/Monte-Neo), Protocolith, formerly ClaimBound Evidence (Apache-2.0, https://github.com/Protocolith/protocolith).
+- Not affiliated with any video blogger or gaming channel named NeoZork or similar.
 - Nothing here is investment advice. Many results are single-operator and not independently replicated; failures are published.
 
 ## Rights
